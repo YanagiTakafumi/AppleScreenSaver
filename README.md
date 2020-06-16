@@ -11,3 +11,6 @@
 ├── Info.plist
 └── README.md
 ```
+
+## ScreenShot
+[](https://raw.github.com/wiki/YanagiTakafumi/AppleScreenSaver/images/AppleScreenSaver.gif)
