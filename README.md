@@ -13,4 +13,4 @@
 ```
 
 ## ScreenShot
-[](https://raw.github.com/wiki/YanagiTakafumi/AppleScreenSaver/images/AppleScreenSaver.gif)
+[demo](https://raw.github.com/wiki/YanagiTakafumi/AppleScreenSaver/images/AppleScreenSaver.gif)
