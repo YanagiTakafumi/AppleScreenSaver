@@ -1,5 +1,5 @@
 # AppleScreenSaver
-[こちらを参考](https://qiita.com/suin/items/83ebaf96caa2c13c8b2f)に作ったスクリーンセーバーです。
+[こちら](https://qiita.com/suin/items/83ebaf96caa2c13c8b2f)を参考に作ったスクリーンセーバーです。
 
 ## Directory Tree
 ```
